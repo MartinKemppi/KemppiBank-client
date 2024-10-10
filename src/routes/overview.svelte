@@ -69,7 +69,7 @@
                         {/each}
                     </tbody>
                 </table>
-                <div>https://jwt.io/ suuname ning sisestame token phpStormist pärast Bearer andme</div>
+                <div>https://jwt.io suuname ning sisestame token phpStormist pärast Bearer andme</div>
             {/await}
         </section>
     {/await}
